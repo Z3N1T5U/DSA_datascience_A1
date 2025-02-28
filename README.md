@@ -1,4 +1,4 @@
-# DSA_datascience_A1
+# DAI_datascience_A1
 # FIFA 23 Player Stats - Exploratory Data Analysis (EDA)
 
 ## Introduction  
