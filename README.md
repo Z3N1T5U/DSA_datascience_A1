@@ -27,10 +27,6 @@ This analysis helps understand **player performance trends, salary distribution,
 2. Open `EDA_FIFA23_Player_Stats.ipynb` in Jupyter Notebook or Google Colab.  
 3. Run all cells to generate insights.
 
-## 📷 Sample Visuals  
-| **Heatmap of FIFA Attributes** | **Overall Rating Distribution** |
-|-------------------------------|-------------------------------|
-| ![Heatmap](https://your-image-link) | ![Histogram](https://your-image-link) |
 
 ## 📜 Conclusion  
 - **Higher-rated players** generally have **higher wages and market values**.  
